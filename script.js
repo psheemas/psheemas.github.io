@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  const apiRoot = 'https://aqueous-ravine-64021.herokuapp.com/v1/task/';
-  const trelloApiRoot = 'https://aqueous-ravine-64021.herokuapp.com/v1/trello/';
+  const apiRoot = 'https://stormy-island-99318.herokuapp.com/v1/task/';
+  const trelloApiRoot = 'https://stormy-island-99318.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
